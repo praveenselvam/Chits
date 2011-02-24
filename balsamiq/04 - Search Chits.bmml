@@ -1,0 +1,147 @@
+<mockup version="1.0" skin="sketch" measuredW="1169" measuredH="1117" mockupW="1024" mockupH="1080">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="135" y="27" w="1024" h="1080" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DNC%20Chits%20Pvt.%20Ltd.%0Ahttp%3A//dnc-chits.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="150" y="109" w="-1" h="-1" measuredW="206" measuredH="62" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>DNC%20Chits</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::HRule" x="142" y="171" w="1010" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="true" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::VRule" x="371" y="171" w="-1" h="909" measuredW="5" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SubTitle" x="385" y="189" w="-1" h="-1" measuredW="257" measuredH="40" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Current%20Running%20Chits</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::DataGrid" x="384" y="482" w="760" h="509" measuredW="645" measuredH="628" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hLines>true</hLines>
+        <selectedIndex>-1</selectedIndex>
+        <text>Chit%20Name%2C%20Code%2C%20Value%2C%20Months%2C%20Status%2C%20No.%20of%20Participants%2C%20Started%20Date%20%5E%0A%2C%20C31%2C%205%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Dec-2010%0A%5B2%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%202%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jan-2011%0A%5B10%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%2010%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Feb-2010%0A%5B1%20Lakh%5C%2C%2020%20months%5D%2C%20C31%2C%201%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jan-2009%0A%5B2%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%202%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jul-2009%0A%5B5%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%205%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Dec-2010%0A%5B2%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%202%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jan-2011%0A%5B10%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%2010%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Feb-2010%0A%5B1%20Lakh%5C%2C%2020%20months%5D%2C%20C31%2C%201%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jan-2009%0A%5B2%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%202%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jul-2009%0A%5B5%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%205%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Dec-2010%0A%5B2%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%202%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jan-2011%0A%5B10%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%2010%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Feb-2010%0A%5B1%20Lakh%5C%2C%2020%20months%5D%2C%20C31%2C%201%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jan-2009%0A%5B2%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%202%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jul-2009%0A%5B5%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%205%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Dec-2010%0A%5B2%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%202%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jan-2011%0A%5B10%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%2010%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Feb-2010%0A%5B1%20Lakh%5C%2C%2020%20months%5D%2C%20C31%2C%201%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jan-2009%0A%5B2%20Lakhs%5C%2C%2020%20months%5D%2C%20C31%2C%202%5C%2C00%5C%2C000%2C%2020%2C%20Running%2C%2020%2C%2012-Jul-2009</text>
+        <vLines>false</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Link" x="1090" y="1006" w="-1" h="-1" measuredW="54" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Older%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Tree" x="395" y="233" w="174" h="28" measuredW="300" measuredH="225" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <hrefs>03%20-%20Current%20Chits%26bm%3B03%20-%20Current%20Chits.bmml%26bm%3B03%20-%20Current%20Chits.bmml%26bm%3B03%20-%20Current%20Chits.bmml</hrefs>
+        <text>v%20%5BSearch%20for%20more%20chits%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Canvas" x="384" y="245" w="760" h="206" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="385" y="268" w="210" h="25" measuredW="46" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Name%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::TextInput" x="608" y="265" w="353" h="-1" measuredW="79" measuredH="29" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Label" x="385" y="333" w="210" h="25" measuredW="117" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Started%20between%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::DateChooser" x="608" y="330" w="148" h="-1" measuredW="106" measuredH="29" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::DateChooser" x="816" y="330" w="145" h="-1" measuredW="106" measuredH="29" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Label" x="385" y="300" w="210" h="25" measuredW="75" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Chit%20Value%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::TextInput" x="658" y="297" w="122" h="-1" measuredW="79" measuredH="29" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="608" y="299" w="-1" h="-1" measuredW="48" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rupees</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Label" x="780" y="299" w="-1" h="-1" measuredW="27" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>.00</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Label" x="770" y="331" w="-1" h="-1" measuredW="27" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>and</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Button" x="608" y="404" w="-1" h="-1" measuredW="67" measuredH="28" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="385" y="365" w="210" h="25" measuredW="52" measuredH="25" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Status%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::CheckBox" x="608" y="366" w="-1" h="-1" measuredW="70" measuredH="22" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Running</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::CheckBox" x="687" y="366" w="-1" h="-1" measuredW="79" measuredH="22" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Complete</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::CheckBox" x="774" y="366" w="-1" h="-1" measuredW="88" measuredH="22" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Scheduled</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::CheckBox" x="873" y="366" w="-1" h="-1" measuredW="87" measuredH="22" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Discarded</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::List" x="148" y="180" w="221" h="223" measuredW="100" measuredH="177" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>03%20-%20Current%20Chits%26bm%3B03%20-%20Current%20Chits.bmml%26bm%3B03%20-%20Current%20Chits.bmml%26bm%3B03%20-%20Current%20Chits.bmml%2C01%20-%20Create%20Customer%26bm%3B01%20-%20Create%20Customer.bmml%26bm%3B01%20-%20Create%20Customer.bmml%26bm%3B01%20-%20Create%20Customer.bmml%2C10%20-%20Reports%26bm%3B10%20-%20Reports.bmml%26bm%3B10%20-%20Reports.bmml%26bm%3B10%20-%20Reports.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2213%2C153%2C234%2C212%22%20href%3D%2203%20-%20Current%20Chits.bmml%22%20alt%3D%2203%20-%20Current%20Chits%22%20id%3D%2280_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2213%2C212%2C234%2C271%22%20href%3D%2201%20-%20Create%20Customer.bmml%22%20alt%3D%2201%20-%20Create%20Customer%22%20id%3D%2280_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2213%2C271%2C234%2C330%22%20href%3D%2210%20-%20Reports.bmml%22%20alt%3D%2210%20-%20Reports%22%20id%3D%2280_2%22/%3E%0A</map>
+        <rowHeight>59</rowHeight>
+        <size>18</size>
+        <text>Chits%20%0ACustomers%0AReports</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Link" x="389" y="509" w="-1" h="-1" measuredW="126" measuredH="25" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>05%20-%20View%20Chit%26bm%3B05%20-%20View%20Chit.bmml%26bm%3B05%20-%20View%20Chit.bmml%26bm%3B05%20-%20View%20Chit.bmml</href>
+        <text>5%20Lakhs%2C%2020%20months</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,97 @@
+<mockup version="1.0" skin="sketch" measuredW="1169" measuredH="1074" mockupW="1024" mockupH="1037">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="135" y="27" w="1024" h="1037" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DNC%20Chits%20Pvt.%20Ltd.%0Ahttp%3A//dnc-chits.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="150" y="109" w="-1" h="-1" measuredW="206" measuredH="62" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>DNC%20Chits</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::HRule" x="142" y="171" w="1010" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="true" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::VRule" x="371" y="171" w="-1" h="862" measuredW="5" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SubTitle" x="385" y="189" w="-1" h="-1" measuredW="528" measuredH="40" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5%20Lakhs%2C%2020%20months%20%7C%20Started%2012-Dec-2010</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="385" y="252" w="210" h="25" measuredW="100" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <size>18</size>
+        <text>Next%20Chit%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="385" y="877" w="210" h="25" measuredW="48" measuredH="25" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Notes%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="400" y="401" w="-1" h="-1" measuredW="124" measuredH="29" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3700253</color>
+        <size>16</size>
+        <text>20%20Participants</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::HRule" x="400" y="423" w="721" h="-1" measuredW="100" measuredH="5" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Paragraph" x="400" y="438" w="386" h="414" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.%20Sankar%20%28Krishnagiri%29%20-%20%5BC287%5D%0A2.%20Kannan%20%28Krishnagiri%29%20-%20%5BC235%5D%0A3.%20Prakash%20%28Tirupattur%29%20-%20%5BC88%5D%0A4.%20Baskar%20%28Vellore%29%20-%20%5BC283%5D%0A5.%20Ramesh%20%28Bangalore%29%20-%20%5BC98%5D%0A6.%20James%20%28Chennai%29%20-%20%5BC28%5D%0A7.%20Sankar%20%28Krishnagiri%29%20-%20%5BC287%5D%0A8.%20Kannan%20%28Krishnagiri%29%20-%20%5BC235%5D%0A9.%20Prakash%20%28Tirupattur%29%20-%20%5BC88%5D%0A10.%20Baskar%20%28Vellore%29%20-%20%5BC283%5D%0A11.%20Ramesh%20%28Bangalore%29%20-%20%5BC98%5D%0A12.%20James%20%28Chennai%29%20-%20%5BC28%5D%0A13.%20Sankar%20%28Krishnagiri%29%20-%20%5BC287%5D%0A14.%20Kannan%20%28Krishnagiri%29%20-%20%5BC235%5D%0A15.%20Prakash%20%28Tirupattur%29%20-%20%5BC88%5D%0A16.%20Baskar%20%28Vellore%29%20-%20%5BC283%5D%0A17.%20Ramesh%20%28Bangalore%29%20-%20%5BC98%5D%0A18.%20James%20%28Chennai%29%20-%20%5BC28%5D%0A19.%20Sankar%20%28Krishnagiri%29%20-%20%5BC287%5D%0A20.%20Kannan%20%28Krishnagiri%29%20-%20%5BC235%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="385" y="290" w="210" h="25" measuredW="75" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Chit%20Value%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="608" y="289" w="-1" h="-1" measuredW="136" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rupees%205%2C00%2C000.00</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="608" y="251" w="-1" h="-1" measuredW="125" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>14-Feb-2011</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="385" y="320" w="210" h="25" measuredW="64" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>Duration%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="608" y="319" w="-1" h="-1" measuredW="67" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>20%20months</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::TabBar" x="385" y="360" w="759" h="499" measuredW="332" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C06%20-%20Chit%20Payments%26bm%3B06%20-%20Chit%20Payments.bmml%26bm%3B06%20-%20Chit%20Payments.bmml%26bm%3B06%20-%20Chit%20Payments.bmml%2C08%20-%20Outstanding%26bm%3B08%20-%20Outstanding.bmml%26bm%3B08%20-%20Outstanding.bmml%26bm%3B08%20-%20Outstanding.bmml</hrefs>
+        <selectedIndex>0</selectedIndex>
+        <text>Participants%2C%20Payments%2C%20Outstanding</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Paragraph" x="608" y="877" w="353" h="47" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bank%20Account%20No.%3A%202190894234%0ABank%20Name%3A%20AXIS%20Bank</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::List" x="148" y="180" w="221" h="223" measuredW="100" measuredH="177" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>03%20-%20Current%20Chits%26bm%3B03%20-%20Current%20Chits.bmml%26bm%3B03%20-%20Current%20Chits.bmml%26bm%3B03%20-%20Current%20Chits.bmml%2C01%20-%20Create%20Customer%26bm%3B01%20-%20Create%20Customer.bmml%26bm%3B01%20-%20Create%20Customer.bmml%26bm%3B01%20-%20Create%20Customer.bmml%2C10%20-%20Reports%26bm%3B10%20-%20Reports.bmml%26bm%3B10%20-%20Reports.bmml%26bm%3B10%20-%20Reports.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2213%2C153%2C234%2C212%22%20href%3D%2203%20-%20Current%20Chits.bmml%22%20alt%3D%2203%20-%20Current%20Chits%22%20id%3D%2258_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2213%2C212%2C234%2C271%22%20href%3D%2201%20-%20Create%20Customer.bmml%22%20alt%3D%2201%20-%20Create%20Customer%22%20id%3D%2258_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%2213%2C271%2C234%2C330%22%20href%3D%2210%20-%20Reports.bmml%22%20alt%3D%2210%20-%20Reports%22%20id%3D%2258_2%22/%3E%0A</map>
+        <rowHeight>59</rowHeight>
+        <size>18</size>
+        <text>Chits%20%0ACustomers%0AReports</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
